@@ -11,11 +11,6 @@
     <a href="https://instagram.com/faa.iiqq" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faa.iiqq" height="30" width="40" />
     </a>
-    <a href="mailto:hussainfaiq65@gmail.com" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Gmail" height="30" width="40" />
-    </a>
-    <br>
-    <span>Email: <a href="mailto:hussainfaiq65@gmail.com">hussainfaiq65@gmail.com</a></span>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
