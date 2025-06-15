@@ -34,33 +34,3 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="30">](https://instagram.com/faa.iiqq)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30">](https://linkedin.com/in/hussainfaiq)
 
----
-
-### 💻 GitHub Stats
-
-![Muhammad Hussain Faiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=hussainfaiq&show_icons=true&theme=dark)
-
----
-
-### ⚙️ Technologies & Tools
-
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40" />
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40" />
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40" />
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40" />
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40" />
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40" />
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40" />
-
----
-
-### 🛠 Workspace Setup
-
-<!-- You can add some badges or icons for your laptop, OS, editor, etc -->
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" height="30" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="30" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" height="30" />
-
----
-
-Let me know if you want me to add your LeetCode, activity graph, or YouTube badges like in Hareesh’s profile too!
