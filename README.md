@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone👋, I'm Muhammad Hussain Faiq</h1>
-<h3 align="center">Full stack web developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
