@@ -5,7 +5,7 @@
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding gif" width="400" />
 </div>
 
-<hr style="margin: 30px 0; border: 1px solid #ccc;" />
+
 
 <!-- Skills Section -->
 <h2>🛠 My Skills</h2>
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<hr style="margin: 30px 0; border: 1px solid #ccc;" />
+
 
 <!-- Connect Section -->
 <h2>📱 Connect With Me</h2>
