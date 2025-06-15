@@ -31,6 +31,6 @@
 
 ### 📫 Connect with me
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="30">](https://instagram.com/faa.iiqq)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30">](mailto:hussainfaiq65@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30">](https://linkedin.com/in/hussainfaiq)
 
